@@ -88,6 +88,3 @@ function newGame(){
         playGame = true;
     })
 }
-
-
-
